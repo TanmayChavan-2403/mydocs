@@ -1,0 +1,51 @@
+{
+    "Nodejs":
+    [{
+        "_id":{"$oid":"6378cec3492b3b41ad81e152"},
+        "chapterName": "File system",
+        "notes": [
+            {
+            "topic": "Topic heading",
+            "content": "JSON stringified content which will be parsed when the data is fetched"
+            },
+            {
+            "topic": "Topic heading 2",
+            "content": "Same as Topic heading 1 content, Json stringified content"
+            }
+        ],
+        "questions": [
+            {
+            "question": "Here lies the question 1",
+            "answer": "Here lies the answer for question 1"
+            },
+            {
+            "question": "Here lies the question 2",
+            "answer": "Here lies the answer for question 2"
+            }
+        ]
+    },
+    {
+        "_id":{"$oid":"6378d102492b3b41ad81e153"},
+        "chapterName": "Synchronous FS",
+        "notes": [
+            {
+            "topic": "Topic heading",
+            "content": "JSON stringified content which will be parsed when the data is fetched"
+            },
+            {
+            "topic": "Topic heading 2",
+            "content": "Same as Topic heading 1 content, Json stringified content"
+            }
+        ],
+        "questions": [
+            {
+            "question": "Here lies the question 1",
+            "answer": "Here lies the answer for question 1"
+            },
+            {
+            "question": "Here lies the question 2",
+            "answer": "Here lies the answer for question 2"
+            }
+        ]
+    }]
+}    
